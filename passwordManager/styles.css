@@ -1,13 +1,14 @@
 body {
     font-family: Arial, sans-serif;
+    background-image: url("https://png.pngtree.com/background/20220729/original/pngtree-simple-background-best-to-use-for-aesthetic-picture-image_1858050.jpg");
   }
   
   .container {
     max-width: 400px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 100px;
     border: 1px solid #ccc;
-    border-radius: 5px;
+    border-radius: 3px;
   }
   
   input[type="text"],
@@ -42,4 +43,5 @@ body {
     background-color: #f4f4f4;
     border-radius: 5px;
   }
+  
   
